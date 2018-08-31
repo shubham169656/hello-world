@@ -1,3 +1,3 @@
 # hello-world
 my first repository on GitHub
-I love to :dancer: :writer: 
+I love to :dancer: drink :coffee: play :badminton:
